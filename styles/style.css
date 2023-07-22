@@ -88,7 +88,7 @@ body {
     font-weight: 400;
 }
 
-.presentation__links__navagation {
+.presentation__links__navegation {
     display: flex;
     justify-content: center;
     gap: 16px;
@@ -105,8 +105,8 @@ body {
     
 }
 
-.presentation__links__link:hover {
-    background-color: #272727;
+.presentation__links__navegation:hover {
+    background-color: rgb(78, 75, 75)
     
 }
 
